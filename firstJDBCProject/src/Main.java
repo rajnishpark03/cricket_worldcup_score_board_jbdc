@@ -4,7 +4,7 @@ import java.util.*;
 public class Main {
     private static final String url="jdbc:mysql://127.0.0.1:3306/cricket";
     private static final String userid="root";
-    private static final String password="Anjurajnish12@";
+    private static final String password="password";
 
     public static void main(String[]args){
 
